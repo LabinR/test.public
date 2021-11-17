@@ -12,5 +12,5 @@ logging.level.root: INFO
 huieryun.ossresigtycvo:
 
 endpoint: oss-cn-qingdao-internal.aliyuncs.com
-accessKeySecret: OMZPUAVFxSGdY8UJMxIrS2lXSVS8EG
-subAccessKeyId: LTAI5tQd9ufNJM3DK2faRCas
+accessKeySecret: n4vshrhxGWnNItxHER1WRlPidjRXbX
+subAccessKeyId: LTAI5tMXWD2joCFpZfeCupLU
