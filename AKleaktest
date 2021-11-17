@@ -1,0 +1,16 @@
+
+cube .global.profile: prod
+
+spring.cloud.config.overrideSystemProperties: false
+
+token.secretKey: qwertyuiopasdfghjkl
+
+huieryun.log.resp.data.level: full
+logging.level.root: INFO
+
+#oss
+huieryun.ossresigtycvo:
+
+endpoint: oss-cn-qingdao-internal.aliyuncs.com
+accessKeySecret: OMZPUAVFxSGdY8UJMxIrS2lXSVS8EG
+subAccessKeyId: LTAI5tQd9ufNJM3DK2faRCas
